@@ -1,0 +1,46 @@
+{
+            "code": 0,
+            "data": {
+              "bookings": [
+                {
+                  "current_queue": 0,
+                  "date": "2017-03-07",
+                  "doctor_image_url": "https://s3-ap-southeast-1.amazonaws.com/rspi-assets/doctors-1000/E290.jpg",
+                  "doctor_name": "dr. Leo W. Natasuria, Sp. PD",
+                  "hospital_name": "RS Pondok Indah - Pondok Indah",
+                  "phone_number": "0217657525",
+                  "room": {
+                    "coordinate": null,
+                    "name": "Penyakit Dalam / Internis"
+                  },
+                  "specialty": "Spesialis Penyakit Dalam  / Internist",
+                  "sub_specialty": "Konsultan Gastroenterologi Hepatologi / Gastroenterohepatology Consultant",
+                  "time": "09:36:00",
+                  "user_queue": 3,
+                  "id": "1",
+                  "status": "active",
+                  is_live_queue: false
+                },
+                {
+                  "current_queue": 0,
+                  "date": "2017-03-07",
+                  "doctor_image_url": "https://s3-ap-southeast-1.amazonaws.com/rspi-assets/doctors-1000/E290.jpg",
+                  "doctor_name": "dr. Leo W. Natasuria, Sp. PD",
+                  "hospital_name": "RS Pondok Indah - Pondok Indah",
+                  "phone_number": "0217657525",
+                  "room": {
+                    "coordinate": null,
+                    "name": "Penyakit Dalam / Internis"
+                  },
+                  "specialty": "Penyakit Dalam / Internal Medicine",
+                  "sub_specialty": null,
+                  "time": "19:36:00",
+                  "user_queue": 3,
+                  "id": "2",
+                  "status": "active",
+                  is_live_queue: true
+                }
+                ]
+              },
+            "message": "success"
+        }
